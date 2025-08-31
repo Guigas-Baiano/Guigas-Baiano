@@ -10,13 +10,10 @@
 </p>
 
 ### 👨‍💻 Sobre Mim:
-``- 🔭 Atualmente estou trabalhando em... **[Nome do Projeto**``
-``- 🌱 Estou aprendendo... **[Tecnologia, Linguagem, Framework]**``
-``- 👯 Procuro colaborar em... **[Tipo de Projeto, Causa]**``
-``- 🤔 Estou procurando ajuda com... **[Algum desafio ou tecnologia]**``
-``- 💬 Pergunte-me sobre... **[Assuntos que você domina]**``
+- 🔭 Atualmente estou trabalhando em... **--**
+- 🌱 Estou aprendendo... **--**
+- 👯 Procuro colaborar em... **--**
+- 🤔 Estou procurando ajuda com... **--**
+- 💬 Pergunte-me sobre... **-**
 - 📫 Como me encontrar: **guigasgdc@gmail.com**
-``- 😄 Pronomes: **[Ele/Dele, Ela/Dela, etc.]**``
-<h1>Minha Página Incrível</h1>
 
-<p>Este parágrafo será exibido na tela.</p>
