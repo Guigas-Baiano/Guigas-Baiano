@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  <img src="https://media.giphy.com/media/xT0xeuoyp1f79P2QKs/giphy.gif" width="20" style="vertical-align: middle;" />
+  <img src="https://imgs.search.brave.com/PD5rFU3m4TI6e1UFn5c4ak_BKaOGysQDXDwQHkMn7kM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/OGpKR2NNazNERU1B/QUFBbS9nb3JpbGxh/ei0yZC53ZWJw" width="20" style="vertical-align: middle;" />
   Texto ao lado do GIF, alinhado verticalmente.
 </p>
 
