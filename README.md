@@ -15,10 +15,10 @@
   Sobre Mim:
 </h3>
 
-- 🔭 Atualmente estou trabalhando em... **--**
-- 🌱 Estou aprendendo... **--**
-- 👯 Procuro colaborar em... **--**
-- 🤔 Estou procurando ajuda com... **--**
-- 💬 Pergunte-me sobre... **-**
+- 🔭 Atualmente estou trabalhando em... **Nadakk**
+- 🌱 Estou aprendendo... **Nada tbm :P**
+- 👯 Procuro colaborar em... **No momento, nada**
+- 🤔 Estou procurando ajuda com... **Tudo...**
+- 💬 Pergunte-me sobre... **Nada! Só sei que nada sei**
 - 📫 Como me encontrar: **guigasgdc@gmail.com**
 
