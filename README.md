@@ -12,10 +12,9 @@
 <p>
   <img src="https://imgs.search.brave.com/PD5rFU3m4TI6e1UFn5c4ak_BKaOGysQDXDwQHkMn7kM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/OGpKR2NNazNERU1B/QUFBbS9nb3JpbGxh/ei0yZC53ZWJw" width="30" style="vertical-align: middle;" />
  
-  <h3 style="display: flex; align-items: center;">
-  <img src="https://imgs.search.brave.com/PD5rFU3m4TI6e1UFn5c4ak_BKaOGysQDXDwQHkMn7kM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/OGpKR2NNazNERU1B/QUFBbS9nb3JpbGxh/ei0yZC53ZWJw" width="30" 
-     Meu Título Com GIF
-    style="margin-left: 10px;" />
+ <h3 style="display: flex; align-items: center;">
+  <img src="https://imgs.search.brave.com/PD5rFU3m4TI6e1UFn5c4ak_BKaOGysQDXDwQHkMn7kM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/OGpKR2NNazNERU1B/QUFBbS9nb3JpbGxh/ei0yZC53ZWJw" width="30" style="margin-right: 10px;" />
+  Meu Título Precedido por um GIF
 </h3>
 
 ### 👨‍💻 Sobre Mim:
