@@ -1,16 +1,19 @@
 ## Hi there 👋
+<p align="center">
+  <img src="URL_DA_SUA_IMAGEM_DE_BANNER" width="800px" />
+</p>
 
-<!--
-**Guigas-Baiano/Guigas-Baiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá! Eu sou Guilherme Castro 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Estudante de BSI, futuro programador
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre Mim:
+- 🔭 Atualmente estou trabalhando em... **[Nome do Projeto]**
+- 🌱 Estou aprendendo... **[Tecnologia, Linguagem, Framework]**
+- 👯 Procuro colaborar em... **[Tipo de Projeto, Causa]**
+- 🤔 Estou procurando ajuda com... **[Algum desafio ou tecnologia]**
+- 💬 Pergunte-me sobre... **[Assuntos que você domina]**
+- 📫 Como me encontrar: **[seuemail@exemplo.com]**
+- 😄 Pronomes: **[Ele/Dele, Ela/Dela, etc.]**
