@@ -8,10 +8,12 @@
 <p align="center">
   Um estudante de BSI e futuro programador... 
 </p>
+
 <p>
   <img src="https://media.giphy.com/media/xT0xeuoyp1f79P2QKs/giphy.gif" width="20" style="vertical-align: middle;" />
   Texto ao lado do GIF, alinhado verticalmente.
 </p>
+
 ### 👨‍💻 Sobre Mim:
 - 🔭 Atualmente estou trabalhando em... **--**
 - 🌱 Estou aprendendo... **--**
