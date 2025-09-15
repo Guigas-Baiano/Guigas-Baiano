@@ -18,7 +18,7 @@
 - 🔭 Atualmente estou trabalhando em: **--**
 - 🌱 Estou aprendendo: **Linguagem C**
 - 👯 Procuro colaborar em: **--**
-- 🤔 Estou procurando: ajuda com**--**
+- 🤔 Estou procurando: ajuda com: **--**
 - 💬 Pergunte-me sobre: **Portugol online (única coisa que aprendi até agorakkk)**
 - 📫 Como me encontrar: **guigasgdc@gmail.com**
 
