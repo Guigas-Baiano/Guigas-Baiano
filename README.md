@@ -20,5 +20,3 @@
 - 👯 Procuro colaborar em: **--**
 - 🤔 Estou procurando: ajuda com: **--**
 - 💬 Pergunte-me sobre: **Portugol online (única coisa que aprendi até agorakkk)**
-- 📫 Como me encontrar: **guigasgdc@gmail.com**
-
