@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://imgs.search.brave.com/QyjzOpLlPVwPa_geysObxyAPGOaPZ9mmv2WCQ5_Qf0A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzcyLzA0/LzI2LzcyMDQyNmEz/ZDE4M2UzYmQ2YWVi/YmJhNWE0MGNmMzY4/LmpwZw" width="400px" />
+  <img src="https://i.pinimg.com/originals/80/af/6e/80af6edf16a35a07954f516c219cefbf.gif" />
 </p>
 
 <h1 align="center">Opa, me chamo Guilherme Castro 👋</h1>
