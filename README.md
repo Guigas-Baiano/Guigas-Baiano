@@ -15,8 +15,8 @@
   Sobre Mim:
 </h3>
 
-- 🔭 Atualmente estou trabalhando em: **--**
+- 🔭 Estou estudando no: **IFNMG -- Campus Januária**
 - 🌱 Estou aprendendo: **Linguagem C**
-- 👯 Procuro colaborar em: **--**
-- 🤔 Estou procurando: ajuda com: **--**
+- 👯 Procuro colaborar em: **---**
+- 🤔 Estou procurando: ajuda com: **--** 
 - 💬 Pergunte-me sobre: **Portugol online (única coisa que aprendi até agorakkk)**
