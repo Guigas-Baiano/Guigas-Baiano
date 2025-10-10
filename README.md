@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/80/af/6e/80af6edf16a35a07954f516c219cefbf.gif" />
 </p>
 
-<h1 align="center">Opa, eu sou  o Gui 👋</h1>
+<h1 align="center">Opa, eu sou  o Guigo 👋</h1>
 
 <p align="center">
   Estudante do curso de BSI e futuro programador
