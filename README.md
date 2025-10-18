@@ -4,11 +4,6 @@
 </p>
 
 <h1 align="center">Opa, eu sou  o Guigo 👋</h1>
-
-<p align="center">
-  Estudante do curso de BSI e futuro programador
-</p>
-
  
  <h3 style="display: flex; align-items: center;">
   <img src="https://art.ngfiles.com/images/2384000/2384516_ravencorona_pixel-art-birb-icon.gif?f1646345226" width="35" style="margin-right: 10px;" />
