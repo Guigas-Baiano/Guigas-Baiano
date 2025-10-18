@@ -11,7 +11,7 @@
 </h3>
 
 - 🔭 Estou estudando no: **IFNMG -- Campus Januária**
-- 🌱 Estou aprendendo: **EStrutura de Dados I, Linguagem C**
+- 🌱 Estou aprendendo: **Estrutura de Dados I, Linguagem C**
 - 👯 Procuro colaborar em: **---**
 - 🤔 Estou procurando: ajuda com: **--** 
 - 💬 Pergunte-me sobre: **Portugol online (única coisa que aprendi até agorakkk)**
