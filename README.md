@@ -15,5 +15,5 @@
 - 💬 Pergunte-me sobre **Portugol online (única coisa que aprendi até agorakkk)**
 
 <p align="center">
-< ![guilhermegcastro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilhermegcastro&theme=radical&hide_border=true) />
-</p>
+![guilhermegcastro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilhermegcastro&theme=radical&hide_border=true)
+
