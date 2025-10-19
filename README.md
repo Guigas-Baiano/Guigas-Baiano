@@ -13,6 +13,8 @@
 - 🔭 Estudante do curso de  ** Bacharelado em Sistemas de Informação (IFNMG - Campus Januária)**
 - 🌱 Atualmente, stou aprendendo sobre **Estrutura de Dados I, Linguagem C**
 - 💬 Pergunte-me sobre **Portugol online (única coisa que aprendi até agorakkk)**
-
+  
+<div align="center">
 ![guilhermegcastro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilhermegcastro&theme=radical&hide_border=true)
 
+</div>
