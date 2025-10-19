@@ -10,8 +10,6 @@
   Sobre Mim:
 </h3>
 
-- 🔭 Estou estudando no: **IFNMG -- Campus Januária**
-- 🌱 Estou aprendendo: **Estrutura de Dados I, Linguagem C**
-- 👯 Procuro colaborar em: **---**
-- 🤔 Estou procurando: ajuda com: **--** 
-- 💬 Pergunte-me sobre: **Portugol online (única coisa que aprendi até agorakkk)**
+- 🔭 Estudante do curso de  ** Bacharelado em Sistemas de Informação (IFNMG - Campus Januária)**
+- 🌱 Atualmente, stou aprendendo sobre **Estrutura de Dados I, Linguagem C**
+- 💬 Pergunte-me sobre **Portugol online (única coisa que aprendi até agorakkk)**
