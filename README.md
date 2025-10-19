@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/80/af/6e/80af6edf16a35a07954f516c219cefbf.gif" />
+  <img src="https://www.kakuchopurei.com/wp-content/uploads/2019/06/blasphemous_01.gif" />
 </p>
 
 <h1 align="center">Opa, eu sou  o Guigo 👋</h1>
