@@ -6,7 +6,7 @@
 <h1 align="center">Opa, eu sou  o Guigo 👋</h1>
  
  <h3 style="display: flex; align-items: center;">
-  <img src="https://art.ngfiles.com/images/2384000/2384516_ravencorona_pixel-art-birb-icon.gif?f1646345226" width="35" style="margin-right: 10px;" />
+  <img src="https://i.redd.it/do-you-think-guts-and-the-penitent-one-from-blasphemous-v0-yd20bst4eped1.gif?width=268&auto=webp&s=2023e84efc2b2f3c82c8b9910ac952d5ad2ce546" width="35" style="margin-right: 10px;" />
   Sobre Mim:
 </h3>
 
