@@ -14,4 +14,3 @@
 - 💬 Pergunte-me sobre **Portugol online (única coisa que aprendi até agorakkk)**
 
   
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Guilherme%20Castro&theme=discord-old-blurple&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
